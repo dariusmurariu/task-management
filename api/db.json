@@ -1,0 +1,11 @@
+{
+  "tasks": [
+    {
+      "title": "New task by Darius",
+      "description": "This is a new task by Darius",
+      "date": "2024-07-20",
+      "completed": false,
+      "id": 1
+    }
+  ]
+}
